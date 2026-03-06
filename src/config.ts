@@ -58,21 +58,21 @@ export const profileConfig: ProfileConfig = {
 	bio: "I'm a developer, student, designer.",
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			name: "BiliBili",
+			icon: "iconoir:youtube-solid", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://m.bilibili.com/space/587847197",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			name: "email",
+			icon: "iconoir:mail-solid",
+			url: "mailto:mzane@foxmail.com?cc=&bcc=&subject=&body=From%20ezane.top%0A------",
 		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
+			url: "https://github.com/",
 		},
 	],
 };
