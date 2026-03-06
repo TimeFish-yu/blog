@@ -20,8 +20,8 @@ export const siteConfig: SiteConfig = {
 		src: "assets/images/demo-banner.png", // 以" "开头 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
-			enable: true, // Display the credit text of the banner image
-			text: "text", // Credit text to be displayed
+			enable: false, // Display the credit text of the banner image
+			text: "", // Credit text to be displayed
 			url: "", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
