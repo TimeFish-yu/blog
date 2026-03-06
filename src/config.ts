@@ -59,14 +59,14 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "BiliBili",
-			icon: "iconoir:youtube-solid", // Visit https://icones.js.org/ for icon codes
+			icon: "fa6-brands:bilibili", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://m.bilibili.com/space/587847197",
 		},
 		{
 			name: "email",
-			icon: "iconoir:mail-solid",
+			icon: "fa6-brands:maxcdn",
 			url: "mailto:mzane@foxmail.com?cc=&bcc=&subject=&body=From%20ezane.top%0A------",
 		},
 		{
