@@ -1,9 +1,9 @@
 ---
-title: 在帖子中添加视频
+title: 如何在帖子中添加视频
 published: 2026-03-08
 description: 本贴演示如何在播客中嵌套视频
 tags: [示例, 视频]
-category: 示例
+category: Fuwari 使用说明
 draft: false
 ---
 
