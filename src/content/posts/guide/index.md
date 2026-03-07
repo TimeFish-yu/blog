@@ -4,13 +4,13 @@ published: 2024-04-01
 description: "如何使用该博客模板"
 image: "./cover.jpeg"
 tags: ["Fuwari", "Blogging", "自定义"]
-category: Fiwari 使用说明
+category: Fuwari 使用说明
 draft: false
 ---
 
-> 图片来源: [来源](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/208fc754-890d-4adb-9753-2c963332675d/width=2048/01651-1456859105-(colour_1.5),girl,_Blue,yellow,green,cyan,purple,red,pink,_best,8k,UHD,masterpiece,male%20focus,%201boy,gloves,%20ponytail,%20long%20hair,.jpeg)
+> 图片来源: [点击查看](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/208fc754-890d-4adb-9753-2c963332675d/width=2048/01651-1456859105-(colour_1.5),girl,_Blue,yellow,green,cyan,purple,red,pink,_best,8k,UHD,masterpiece,male%20focus,%201boy,gloves,%20ponytail,%20long%20hair,.jpeg)
 
-该博客使用 [Astro](https://astro.build/)搭建. 对于本指南中未提及的内容，您可在 [Astro Docs](https://docs.astro.build/)寻找答案.
+该博客使用 [Astro](https://astro.build/) 搭建. 对于本指南中未提及的内容，您可在 [Astro Docs](https://docs.astro.build/) 寻找答案.
 
 ## 博客前言
 
