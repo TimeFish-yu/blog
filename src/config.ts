@@ -67,7 +67,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "email",
 			icon: "fa6-brands:maxcdn",
-			url: "mailto:mzane@foxmail.com?cc=&bcc=&subject=&body=From%20ezane.top%0A------",
+			url: "mailto:mzane@foxmail.com?cc=&bcc=&subject=&body=%0A%0A------%0AFrom%20ezane.top%0A------",
 		},
 		{
 			name: "GitHub",
