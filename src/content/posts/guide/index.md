@@ -49,3 +49,6 @@ src/content/posts/
     ├── cover.png
     └── index.md
 ```
+
+>该帖翻译自:[https://fuwari.vercel.app/](https://fuwari.vercel.app/)
+
