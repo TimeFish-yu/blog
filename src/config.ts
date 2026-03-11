@@ -66,8 +66,13 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "email",
-			icon: "fa6-brands:maxcdn",
+			icon: "icomoon-free:envelop",
 			url: "mailto:mzane@foxmail.com?cc=&bcc=&subject=&body=%0A%0A------%0AFrom%20ezane.top%0A------",
+		},
+{
+			name: "Support",
+			icon: "icomoon-free:gift",
+			url: "https://afdian.com/a/izane",
 		},
 		{
 			name: "GitHub",
