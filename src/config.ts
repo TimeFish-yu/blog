@@ -71,7 +71,7 @@ export const profileConfig: ProfileConfig = {
 		},
 {
 			name: "Support",
-			icon: "icomoon-free:gift",
+			icon: "fa6-brands:gulp",
 			url: "https://afdian.com/a/izane",
 		},
 		{
