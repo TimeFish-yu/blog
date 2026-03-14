@@ -4,7 +4,7 @@ published: 2026-03-08
 description: 本贴演示如何在播客中嵌套视频
 tags: [示例, 视频]
 category: Fuwari 使用说明
-draft: false
+draft: true
 ---
 
 只需要从 bilibili 或其他平台复制嵌入代码, 并将其粘贴到 markdown 文件中
