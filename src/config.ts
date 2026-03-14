@@ -16,8 +16,8 @@ export const siteConfig: SiteConfig = {
 		fixed: false, // 是否隐藏颜色选择器
 	},
 	banner: {
-		enable: false,
-		src: "assets/images/demo-banner.png", // 以" "开头 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+		enable: true,
+		src: "assets/images/IMG_0973.jpeg", // 以" "开头 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: false, // Display the credit text of the banner image
@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/share_1771773414036.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/IMG_0974.jpeg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Zane",
 	bio: "I'm a developer, student, designer.",
 	links: [
